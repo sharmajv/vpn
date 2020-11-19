@@ -4,4 +4,13 @@
 
 不收费，不注册，不限速，不限流，不看广告不流氓，只想安静做个VPN。
 
-点击下载
+![截图](https://github.com/sharmajv/vpn/blob/main/screen.gif?raw=true)
+
+# 下载
+
+[下载](https://cdn.jsdelivr.net/gh/sharmajv/vpn@main/3VPN-v101.apk)
+
+[备用下载](https://raw.githubusercontent.com/sharmajv/vpn/main/3VPN-v101.apk)
+
+
+
